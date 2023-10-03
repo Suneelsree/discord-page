@@ -981,5 +981,8 @@ font-size: 13px;
 {
     color:rgb(110,110,238);
 }
+.log{
+    display: none;
+}
     }
 }
